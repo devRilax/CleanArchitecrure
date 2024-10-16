@@ -1,0 +1,17 @@
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\bin\Debug\net8.0\CA_InterfaceAdapters.Mappers.deps.json
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\bin\Debug\net8.0\CA_InterfaceAdapters.Mappers.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\bin\Debug\net8.0\CA_InterfaceAdapters.Mappers.pdb
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\bin\Debug\net8.0\CA_ApplicationLayer.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\bin\Debug\net8.0\CA_EnterpriseLayer.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\bin\Debug\net8.0\CA_ApplicationLayer.pdb
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\bin\Debug\net8.0\CA_EnterpriseLayer.pdb
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_InterfaceAdapters.Mappers.csproj.AssemblyReference.cache
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_InterfaceAdapters.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_InterfaceAdapters.Mappers.AssemblyInfoInputs.cache
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_InterfaceAdapters.Mappers.AssemblyInfo.cs
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_InterfaceAdapters.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_Inter.7D5705AE.Up2Date
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_InterfaceAdapters.Mappers.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\refint\CA_InterfaceAdapters.Mappers.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\CA_InterfaceAdapters.Mappers.pdb
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\obj\Debug\net8.0\ref\CA_InterfaceAdapters.Mappers.dll

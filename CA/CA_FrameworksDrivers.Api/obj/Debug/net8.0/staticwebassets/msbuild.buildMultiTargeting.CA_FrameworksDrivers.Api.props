@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CA_FrameworksDrivers.Api.props" />
+</Project>

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dcaro\\source\\repos\\CA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E71A80B-0370-45EA-9CF0-F2D4BCF61C7F}|CA_FrameworksDrivers.Api\\CA_FrameworksDrivers.Api.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_frameworksdrivers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E71A80B-0370-45EA-9CF0-F2D4BCF61C7F}|CA_FrameworksDrivers.Api\\CA_FrameworksDrivers.Api.csproj|solutionrelative:ca_frameworksdrivers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_applicationlayer\\contracts\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|solutionrelative:ca_applicationlayer\\contracts\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2966B1FB-B450-4E53-8351-A38579B9C224}|CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.mappers\\mapper\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2966B1FB-B450-4E53-8351-A38579B9C224}|CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj|solutionrelative:ca_interfaceadapters.mappers\\mapper\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0923CF91-F747-452A-8B0E-5AFA15F38910}|CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.presenters\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0923CF91-F747-452A-8B0E-5AFA15F38910}|CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj|solutionrelative:ca_interfaceadapters.presenters\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2966B1FB-B450-4E53-8351-A38579B9C224}|CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.mappers\\ca_interfaceadapters.mappers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2966B1FB-B450-4E53-8351-A38579B9C224}|CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj|solutionrelative:ca_interfaceadapters.mappers\\ca_interfaceadapters.mappers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2966B1FB-B450-4E53-8351-A38579B9C224}|CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.mappers\\dto\\requests\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2966B1FB-B450-4E53-8351-A38579B9C224}|CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj|solutionrelative:ca_interfaceadapters.mappers\\dto\\requests\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_applicationlayer\\usecases\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|solutionrelative:ca_applicationlayer\\usecases\\addproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C3E429-3D9B-4F25-9750-74633FAF8D5A}|CA_InterfaceAdapters.Repository\\CA_InterfaceAdapters.Repository.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C3E429-3D9B-4F25-9750-74633FAF8D5A}|CA_InterfaceAdapters.Repository\\CA_InterfaceAdapters.Repository.csproj|solutionrelative:ca_interfaceadapters.repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0923CF91-F747-452A-8B0E-5AFA15F38910}|CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0923CF91-F747-452A-8B0E-5AFA15F38910}|CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj|solutionrelative:ca_interfaceadapters.presenters\\productpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_applicationlayer\\usecases\\getproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|solutionrelative:ca_applicationlayer\\usecases\\getproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F07ADD-A91C-4139-83F0-DF78502F5645}|CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F07ADD-A91C-4139-83F0-DF78502F5645}|CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj|solutionrelative:ca_interfaceadapters.models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_applicationlayer\\contracts\\ipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E09ABB-47B4-4FA9-9175-A7FE8B93AD76}|CA_ApplicationLayer\\CA_ApplicationLayer.csproj|solutionrelative:ca_applicationlayer\\contracts\\ipresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C3E429-3D9B-4F25-9750-74633FAF8D5A}|CA_InterfaceAdapters.Repository\\CA_InterfaceAdapters.Repository.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C3E429-3D9B-4F25-9750-74633FAF8D5A}|CA_InterfaceAdapters.Repository\\CA_InterfaceAdapters.Repository.csproj|solutionrelative:ca_interfaceadapters.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F07ADD-A91C-4139-83F0-DF78502F5645}|CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_interfaceadapters.models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F07ADD-A91C-4139-83F0-DF78502F5645}|CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj|solutionrelative:ca_interfaceadapters.models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4185FC11-A5DC-465E-8A03-F7FFAE82F422}|CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj|c:\\users\\dcaro\\source\\repos\\ca\\ca_enterpriselayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4185FC11-A5DC-465E-8A03-F7FFAE82F422}|CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj|solutionrelative:ca_enterpriselayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Mappers\\Mapper\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Mappers\\Mapper\\ProductMapper.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Mappers\\Mapper\\ProductMapper.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Mappers\\Mapper\\ProductMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:47:26.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Mappers\\Dto\\Requests\\ProductRequestDto.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Mappers\\Dto\\Requests\\ProductRequestDto.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Mappers\\Dto\\Requests\\ProductRequestDto.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Mappers\\Dto\\Requests\\ProductRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:46:34.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CA_InterfaceAdapters.Mappers",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj",
+              "RelativeToolTip": "CA_InterfaceAdapters.Mappers\\CA_InterfaceAdapters.Mappers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T15:45:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\UseCases\\AddProductService.cs",
+              "RelativeDocumentMoniker": "CA_ApplicationLayer\\UseCases\\AddProductService.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\UseCases\\AddProductService.cs",
+              "RelativeToolTip": "CA_ApplicationLayer\\UseCases\\AddProductService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:39:38.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMapper.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\Contracts\\IMapper.cs",
+              "RelativeDocumentMoniker": "CA_ApplicationLayer\\Contracts\\IMapper.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\Contracts\\IMapper.cs",
+              "RelativeToolTip": "CA_ApplicationLayer\\Contracts\\IMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:35:33.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Presenters\\ProductPresenter.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Presenters\\ProductPresenter.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Presenters\\ProductPresenter.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Presenters\\ProductPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:11:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Presenters\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Presenters\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Presenters\\ProductViewModel.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Presenters\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:11:01.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\UseCases\\GetProductService.cs",
+              "RelativeDocumentMoniker": "CA_ApplicationLayer\\UseCases\\GetProductService.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\UseCases\\GetProductService.cs",
+              "RelativeToolTip": "CA_ApplicationLayer\\UseCases\\GetProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:20:32.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\Contracts\\IPresenter.cs",
+              "RelativeDocumentMoniker": "CA_ApplicationLayer\\Contracts\\IPresenter.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\Contracts\\IPresenter.cs",
+              "RelativeToolTip": "CA_ApplicationLayer\\Contracts\\IPresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:02:42.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Repository\\BaseRepository.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Repository\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:09:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Models\\BaseModel.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:03:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\Product.cs",
+              "RelativeDocumentMoniker": "CA_EnterpriseLayer\\Product.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\Product.cs",
+              "RelativeToolTip": "CA_EnterpriseLayer\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:39:50.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Models\\ProductModel.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:39:25.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_FrameworksDrivers.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CA_FrameworksDrivers.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_FrameworksDrivers.Api\\Program.cs*",
+              "RelativeToolTip": "CA_FrameworksDrivers.Api\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:10:02.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "CA_InterfaceAdapters.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Repository\\Repository.cs",
+              "RelativeToolTip": "CA_InterfaceAdapters.Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:22:13.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

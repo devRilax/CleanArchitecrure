@@ -1,0 +1,11 @@
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\bin\Debug\net8.0\CA_EnterpriseLayer.deps.json
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\bin\Debug\net8.0\CA_EnterpriseLayer.dll
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\bin\Debug\net8.0\CA_EnterpriseLayer.pdb
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\CA_EnterpriseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\CA_EnterpriseLayer.AssemblyInfoInputs.cache
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\CA_EnterpriseLayer.AssemblyInfo.cs
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\CA_EnterpriseLayer.csproj.CoreCompileInputs.cache
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\CA_EnterpriseLayer.dll
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\refint\CA_EnterpriseLayer.dll
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\CA_EnterpriseLayer.pdb
+C:\Users\dcaro\source\repos\CA\CA_EnterpriseLayer\obj\Debug\net8.0\ref\CA_EnterpriseLayer.dll

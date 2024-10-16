@@ -1,0 +1,17 @@
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\bin\Debug\net8.0\CA_InterfaceAdapters.Data.deps.json
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\bin\Debug\net8.0\CA_InterfaceAdapters.Data.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\bin\Debug\net8.0\CA_InterfaceAdapters.Data.pdb
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\bin\Debug\net8.0\CA_EnterpriseLayer.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\bin\Debug\net8.0\CA_EnterpriseLayer.pdb
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_InterfaceAdapters.Data.csproj.AssemblyReference.cache
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_InterfaceAdapters.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_InterfaceAdapters.Data.AssemblyInfoInputs.cache
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_InterfaceAdapters.Data.AssemblyInfo.cs
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_InterfaceAdapters.Data.csproj.CoreCompileInputs.cache
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_Inter.C843E95A.Up2Date
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_InterfaceAdapters.Data.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\refint\CA_InterfaceAdapters.Data.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\CA_InterfaceAdapters.Data.pdb
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\obj\Debug\net8.0\ref\CA_InterfaceAdapters.Data.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\bin\Debug\net8.0\CA_InterfaceAdapters.Models.dll
+C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Data\bin\Debug\net8.0\CA_InterfaceAdapters.Models.pdb

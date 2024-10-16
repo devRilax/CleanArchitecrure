@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CA_ApplicationLayer\CA_ApplicationLayer.csproj" />
+    <ProjectReference Include="..\CA_EnterpriseLayer\CA_EnterpriseLayer.csproj" />
+    <ProjectReference Include="..\CA_InterfaceAdapters.Data\CA_InterfaceAdapters.Data.csproj" />
+    <ProjectReference Include="..\CA_InterfaceAdapters.Models\CA_InterfaceAdapters.Models.csproj" />
+  </ItemGroup>
+
+</Project>

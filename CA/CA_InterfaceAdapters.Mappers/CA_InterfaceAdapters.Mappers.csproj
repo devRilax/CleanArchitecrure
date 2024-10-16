@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dto\Responses\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CA_ApplicationLayer\CA_ApplicationLayer.csproj" />
+    <ProjectReference Include="..\CA_EnterpriseLayer\CA_EnterpriseLayer.csproj" />
+  </ItemGroup>
+
+</Project>
