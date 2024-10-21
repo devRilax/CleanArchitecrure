@@ -54,6 +54,13 @@ nunit-*.xml
 [Dd]ebugPS/
 [Rr]eleasePS/
 dlldata.c
+*.dll
+*.pdb
+*.exe
+*.app
+*.apk
+*.ipa
+*.cache
 
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
