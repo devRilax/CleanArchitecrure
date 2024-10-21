@@ -10,6 +10,8 @@
         "dependencies": {
           "CA_ApplicationLayer": "1.0.0",
           "CA_EnterpriseLayer": "1.0.0",
+          "CA_FrameworksDrivers.ExternalServices": "1.0.0",
+          "CA_InterfaceAdapters.Adapters": "1.0.0",
           "CA_InterfaceAdapters.Data": "1.0.0",
           "CA_InterfaceAdapters.Mappers": "1.0.0",
           "CA_InterfaceAdapters.Models": "1.0.0",
@@ -625,6 +627,31 @@
           }
         }
       },
+      "CA_FrameworksDrivers.ExternalServices/1.0.0": {
+        "dependencies": {
+          "CA_ApplicationLayer": "1.0.0",
+          "CA_EnterpriseLayer": "1.0.0",
+          "CA_InterfaceAdapters.Adapters": "1.0.0"
+        },
+        "runtime": {
+          "CA_FrameworksDrivers.ExternalServices.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CA_InterfaceAdapters.Adapters/1.0.0": {
+        "dependencies": {
+          "CA_ApplicationLayer": "1.0.0",
+          "CA_EnterpriseLayer": "1.0.0"
+        },
+        "runtime": {
+          "CA_InterfaceAdapters.Adapters.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "CA_InterfaceAdapters.Data/1.0.0": {
         "dependencies": {
           "CA_InterfaceAdapters.Models": "1.0.0",
@@ -1135,6 +1162,16 @@
       "sha512": ""
     },
     "CA_EnterpriseLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CA_FrameworksDrivers.ExternalServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CA_InterfaceAdapters.Adapters/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

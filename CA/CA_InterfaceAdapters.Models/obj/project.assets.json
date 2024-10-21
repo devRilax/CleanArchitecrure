@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj",
+      "projectUniqueName": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj",
       "projectName": "CA_InterfaceAdapters.Models",
-      "projectPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj",
+      "projectPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_InterfaceAdapters.Models\\CA_InterfaceAdapters.Models.csproj",
       "packagesPath": "C:\\Users\\dcaro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Models\\obj\\",
+      "outputPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_InterfaceAdapters.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dcaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,8 +55,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj": {
-              "projectPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj"
+            "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj": {
+              "projectPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj"
             }
           }
         }

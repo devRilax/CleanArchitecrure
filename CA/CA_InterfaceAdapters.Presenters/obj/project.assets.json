@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj",
+      "projectUniqueName": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj",
       "projectName": "CA_InterfaceAdapters.Presenters",
-      "projectPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj",
+      "projectPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_InterfaceAdapters.Presenters\\CA_InterfaceAdapters.Presenters.csproj",
       "packagesPath": "C:\\Users\\dcaro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_InterfaceAdapters.Presenters\\obj\\",
+      "outputPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_InterfaceAdapters.Presenters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dcaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,11 +74,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\CA_ApplicationLayer.csproj": {
-              "projectPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_ApplicationLayer\\CA_ApplicationLayer.csproj"
+            "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_ApplicationLayer\\CA_ApplicationLayer.csproj": {
+              "projectPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_ApplicationLayer\\CA_ApplicationLayer.csproj"
             },
-            "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj": {
-              "projectPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj"
+            "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj": {
+              "projectPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj"
             }
           }
         }

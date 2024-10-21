@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj",
+      "projectUniqueName": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj",
       "projectName": "CA_EnterpriseLayer",
-      "projectPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj",
+      "projectPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_EnterpriseLayer\\CA_EnterpriseLayer.csproj",
       "packagesPath": "C:\\Users\\dcaro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dcaro\\source\\repos\\CA\\CA_EnterpriseLayer\\obj\\",
+      "outputPath": "C:\\Users\\dcaro\\OneDrive - novofarma.com\\Escritorio\\Desarrollos\\Curso Clean Architecture\\CleanArchitecrure\\CA\\CA_EnterpriseLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dcaro\\AppData\\Roaming\\NuGet\\NuGet.Config",

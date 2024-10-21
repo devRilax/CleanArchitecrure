@@ -13,3 +13,19 @@ C:\Users\dcaro\source\repos\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_Applicati
 C:\Users\dcaro\source\repos\CA\CA_ApplicationLayer\obj\Debug\net8.0\refint\CA_ApplicationLayer.dll
 C:\Users\dcaro\source\repos\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.pdb
 C:\Users\dcaro\source\repos\CA\CA_ApplicationLayer\obj\Debug\net8.0\ref\CA_ApplicationLayer.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\bin\Debug\net8.0\CA_ApplicationLayer.deps.json
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\bin\Debug\net8.0\CA_ApplicationLayer.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\bin\Debug\net8.0\CA_ApplicationLayer.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\bin\Debug\net8.0\CA_EnterpriseLayer.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\bin\Debug\net8.0\CA_EnterpriseLayer.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.AssemblyInfo.cs
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.sourcelink.json
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_Appli.3E0A9905.Up2Date
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\refint\CA_ApplicationLayer.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\CA_ApplicationLayer.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_ApplicationLayer\obj\Debug\net8.0\ref\CA_ApplicationLayer.dll

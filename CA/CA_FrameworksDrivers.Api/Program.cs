@@ -1,6 +1,11 @@
 using CA_ApplicationLayer.Contracts;
 using CA_ApplicationLayer.UseCases;
-using CA_EnterpriseLayer;
+using CA_EnterpriseLayer.Entities;
+using CA_EnterpriseLayer.Entities.Rest;
+using CA_FrameworksDrivers.Api.Middleware;
+using CA_FrameworksDrivers.ExternalServices;
+using CA_InterfaceAdapters.Adapters;
+using CA_InterfaceAdapters.Adapters.Dto;
 using CA_InterfaceAdapters.Data;
 using CA_InterfaceAdapters.Mappers.Dto.Requests;
 using CA_InterfaceAdapters.Mappers.Mapper;
@@ -27,6 +32,15 @@ builder.Services.AddScoped<IPresenter<Product, ProductViewModel>, ProductPresent
 builder.Services.AddScoped<GetProductService<Product, ProductViewModel>>();
 builder.Services.AddScoped<AddProductService<ProductRequestDto>>();
 builder.Services.AddScoped<IMapper<ProductRequestDto, Product>, ProductMapper>();
+builder.Services.AddScoped<GetPostUseCase>();
+builder.Services.AddScoped<IExternalService<PostDto>, PostService>();
+builder.Services.AddScoped<IExternalServiceAdapter<Post>, PostExternalServiceAdapter>();
+
+builder.Services.AddHttpClient<IExternalService<PostDto>, PostService>(c =>
+{
+    c.BaseAddress = new Uri(builder.Configuration["BaseUrlPostData"]);
+});
+
 
 
 var app = builder.Build();
@@ -39,6 +53,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.MapGet("/product", async(GetProductService<Product, ProductViewModel> getProductService) =>
 {
@@ -55,6 +70,14 @@ app.MapPost("/product", async (ProductRequestDto requestDto,
      await addProductService.ExecuteAsync(requestDto);
 })
 .WithName("addProduct")
+.WithOpenApi();
+
+app.MapPost("/getItem", async (GetPostUseCase service)
+                               =>
+{
+    return await service.ExecuteAsync();
+})
+.WithName("getItems")
 .WithOpenApi();
 
 app.Run();

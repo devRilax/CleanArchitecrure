@@ -1,7 +1,8 @@
 ﻿using CA_ApplicationLayer.Contracts;
-using CA_EnterpriseLayer;
+using CA_EnterpriseLayer.Entities;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,7 +24,7 @@ namespace CA_ApplicationLayer.UseCases
         {
             var producto = _mapper.ToEntity(dto);
             if (string.IsNullOrEmpty(producto.Name))
-                throw new Exception("el nombre del producto es requerido");
+                throw new ValidationException("el nombre del producto es requerido");
 
 
         }

@@ -14,6 +14,8 @@
   <ItemGroup>
     <ProjectReference Include="..\CA_ApplicationLayer\CA_ApplicationLayer.csproj" />
     <ProjectReference Include="..\CA_EnterpriseLayer\CA_EnterpriseLayer.csproj" />
+    <ProjectReference Include="..\CA_FrameworksDrivers.ExternalServices\CA_FrameworksDrivers.ExternalServices.csproj" />
+    <ProjectReference Include="..\CA_InterfaceAdapters.Adapters\CA_InterfaceAdapters.Adapters.csproj" />
     <ProjectReference Include="..\CA_InterfaceAdapters.Data\CA_InterfaceAdapters.Data.csproj" />
     <ProjectReference Include="..\CA_InterfaceAdapters.Mappers\CA_InterfaceAdapters.Mappers.csproj" />
     <ProjectReference Include="..\CA_InterfaceAdapters.Models\CA_InterfaceAdapters.Models.csproj" />

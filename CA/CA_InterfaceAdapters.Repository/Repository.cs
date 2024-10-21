@@ -1,5 +1,5 @@
 ﻿using CA_ApplicationLayer.Contracts;
-using CA_EnterpriseLayer;
+using CA_EnterpriseLayer.Entities;
 using CA_InterfaceAdapters.Data;
 using CA_InterfaceAdapters.Models;
 

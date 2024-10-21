@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CA_InterfaceAdapters.Mappers
-build_property.ProjectDir = C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Mappers\
+build_property.ProjectDir = C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Mappers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

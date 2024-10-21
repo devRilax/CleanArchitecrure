@@ -19,3 +19,25 @@ C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\
 C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\ref\CA_InterfaceAdapters.Repository.dll
 C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Models.dll
 C:\Users\dcaro\source\repos\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Models.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Repository.deps.json
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Repository.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Repository.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_ApplicationLayer.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_EnterpriseLayer.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Data.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Models.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_ApplicationLayer.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_EnterpriseLayer.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Data.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\bin\Debug\net8.0\CA_InterfaceAdapters.Models.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.csproj.AssemblyReference.cache
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.AssemblyInfoInputs.cache
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.AssemblyInfo.cs
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.sourcelink.json
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_Inter.7331587A.Up2Date
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\refint\CA_InterfaceAdapters.Repository.dll
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\CA_InterfaceAdapters.Repository.pdb
+C:\Users\dcaro\OneDrive - novofarma.com\Escritorio\Desarrollos\Curso Clean Architecture\CleanArchitecrure\CA\CA_InterfaceAdapters.Repository\obj\Debug\net8.0\ref\CA_InterfaceAdapters.Repository.dll

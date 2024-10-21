@@ -1,4 +1,4 @@
-﻿namespace CA_EnterpriseLayer
+﻿namespace CA_EnterpriseLayer.Entities
 {
     public class Product
     {
